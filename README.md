@@ -1,4 +1,3 @@
-# Readme_Abhi[README.md](https://github.com/user-attachments/files/17449314/README.md)
 <h3 align="center">Greetings! I'm Abhishek Patel <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h3>
 <h4 align="center">Crafting digital wonders in the realm of Computer Engineering 🚀</h4>
 
